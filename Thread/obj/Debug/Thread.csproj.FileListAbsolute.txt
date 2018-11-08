@@ -1,0 +1,6 @@
+D:\构造和析构\多线程\Thread\Thread\bin\Debug\Thread.exe.config
+D:\构造和析构\多线程\Thread\Thread\obj\Debug\Thread.csprojResolveAssemblyReference.cache
+D:\构造和析构\多线程\Thread\Thread\bin\Debug\Thread.exe
+D:\构造和析构\多线程\Thread\Thread\bin\Debug\Thread.pdb
+D:\构造和析构\多线程\Thread\Thread\obj\Debug\Thread.exe
+D:\构造和析构\多线程\Thread\Thread\obj\Debug\Thread.pdb
